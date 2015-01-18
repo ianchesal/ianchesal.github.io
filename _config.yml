@@ -27,7 +27,7 @@ footer-links:
   pinterest:
   rss: # just type anything here for a working RSS icon, make sure you set the "url" above!
   twitter: ircri
-  stackoverflow: users/259811/ian-c # your stackoverflow profile, e.g. "users/50476/bart-kiers"
+  stackoverflow: users/95388/ian-c?tab=accounts # your stackechange profile, e.g. "users/95388/ian-c?tab=accounts"
 
 # Your disqus shortname, entering this will enable commenting on posts
 disqus: Ian C. 
