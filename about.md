@@ -4,12 +4,16 @@ title: About
 permalink: /about/
 ---
 
-Some information about you!
+I'm currently an engineering manager at [Square](https://squareup.com/careers) working to improve developer environments and continuous integration infrastructure.
 
-### More Information
+I like music. All kinds of music.
 
-A place to include any other types of information that you'd like to include about yourself. 
+I beta test snazzy music-making gear for [Fractal Audio](http://www.fractalaudio.com/) and occassionally get together with far-more talented musicians to make some of it in public.
 
-### Contact me
+I'm a moderator at [Ask Different](https://apple.stackexchange.com/) -- the Stack Exchange Q&A site for all things Apple.
 
-[email@domain.com](mailto:email@domain.com)
+## More Information
+
+* [Twitter](https://twitter.com/ircri)
+* [Github](https://github.com/ianchesal)
+* [Soundcloud](https://soundcloud.com/iaresee)
