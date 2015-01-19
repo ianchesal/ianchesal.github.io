@@ -3,10 +3,10 @@
 #
 
 # Name of your site (displayed in the header)
-name: Ian Chesal
+name: Mostly Wrong
 
 # Short bio or description (displayed in the header)
-description: Mostly Wrong
+description: Where Ian Chesal says things that are mostly wrong.
 
 # URL of your avatar or profile pic (you could use your GitHub profile pic)
 avatar: https://avatars2.githubusercontent.com/u/291808?v=3&s=460
@@ -31,7 +31,7 @@ footer-links:
   stackexchange: users/95388/ian-c?tab=accounts # your stackechange profile, e.g. "users/95388/ian-c?tab=accounts"
 
 # Your disqus shortname, entering this will enable commenting on posts
-disqus: Ian C.
+disqus: mostlywrong
 
 # Enter your Google Analytics web tracking code (e.g. UA-2110908-2) to activate tracking
 google_analytics: UA-58695840-1
