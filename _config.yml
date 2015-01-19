@@ -9,7 +9,7 @@ name: Mostly Wrong
 description: Where Ian Chesal says things that are mostly wrong.
 
 # URL of your avatar or profile pic (you could use your GitHub profile pic)
-avatar: images/lego-avatar.png
+avatar: /images/lego-avatar.png
 
 #
 # Flags below are optional
