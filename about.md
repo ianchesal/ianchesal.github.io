@@ -1,10 +1,10 @@
 ---
 layout: page
-title: About
+title: About Ian Chesal
 permalink: /about/
 ---
 
-I'm currently an engineering manager at [Square](https://squareup.com/careers) working to improve developer environments and continuous integration infrastructure.
+I am an engineering manager at [Square](https://squareup.com/careers) working to improve developer environments and continuous integration infrastructure.
 
 I like music. All kinds of music.
 
@@ -14,6 +14,9 @@ I'm a moderator at [Ask Different](https://apple.stackexchange.com/) -- the Stac
 
 ## More Information
 
+* [Email](mailto:ian@mostlywrong.net)
 * [Twitter](https://twitter.com/ircri)
 * [Github](https://github.com/ianchesal)
 * [Soundcloud](https://soundcloud.com/iaresee)
+* [Keybase.io](https://keybase.io/irc)
+* [Stack Exchange](https://stackexchange.com/users/95388/ian-c?tab=accounts)
