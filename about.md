@@ -8,7 +8,7 @@ I am an engineering manager at [Square](https://squareup.com/careers) working to
 
 I like music. All kinds of music.
 
-I beta test snazzy music-making gear for [Fractal Audio](http://www.fractalaudio.com/) and occassionally get together with far-more talented musicians to make some of it in public.
+I beta test snazzy music-making gear for [Fractal Audio](http://www.fractalaudio.com/) and occassionally get together with far more talented musicians than myself to make some of it in public.
 
 I'm a moderator at [Ask Different](https://apple.stackexchange.com/) -- the Stack Exchange Q&A site for all things Apple.
 
