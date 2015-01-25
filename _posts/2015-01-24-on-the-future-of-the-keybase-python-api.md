@@ -27,7 +27,7 @@ These two divergences put me at sort of an impasse. I don't ever want to downloa
 
 Maybe I'll figure out a safe way to interact with a default keyring, but for now I'm just not willing to go there. You have all you need to encrypt, decrypt and sign messages with your private key using the [GPG Toolkit](https://www.gnupg.org/). And there's already the _excellent_ [python-gnupg library](https://github.com/isislovecruft/python-gnupg) from Isis Lovecruft if you want a wrapper around your private keyring and GPG. I don't want to put more code between those layers and your private keys.
 
-That means, for now, the Keybase Python API is pretty much done. It has all the interface it can have for working with public keys from the Keybase.io servers.
+That means, for now, the Keybase Python API is pretty much done from my perspective. It has all the interface it can have for working with public keys from the Keybase.io servers. Of course, you're welcome to disagree with me and keep moving it along; adding the private interface methods that you feel are missing.
 
 Look for the `1.0.0` release of the Keybase Python API to drop some time this weekend.
 
