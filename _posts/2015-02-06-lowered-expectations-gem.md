@@ -1,6 +1,6 @@
 ---
 layout: post
-title: A New Ruby Gem: LoweredExpectations
+title: A New Ruby Gem -- LoweredExpectations
 ---
 
 Pushed a new Ruby Gem today that lets you apply Gemfile-like expectations syntax to command line tools: [lowered-expectations](https://rubygems.org/gems/lowered-expectations). It'll check to make sure you have the tool in your environment, query it for the version and then compare the extracted version to a expected version pattern to make sure it falls within the expected range.
