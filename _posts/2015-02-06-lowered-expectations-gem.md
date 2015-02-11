@@ -13,8 +13,9 @@ It lets you do nice things like fail if the version of `curl` on the system is l
 
 If you're doing system scripts in Ruby I think you'll find this one handy to have. It should run in Ruby <2.0.0 though I haven't tested it there yet. And it should also run on Windows though, again, I don't use Windows so it may not function 100% correctly there yet (though I'm pretty certain my [which](https://github.com/ianchesal/loweredexpectations/blob/master/lib/lowered/expectations.rb#L39) implementation is Windows-friendly).
 
-If you're not familiar with Ruby Gem version matching semantics, please see: http://stackoverflow.com/a/3416289/259811 and http://guides.rubygems.org/patterns/#semantic-versioning
+If you're not familiar with Ruby Gem version matching semantics, please see: [http://stackoverflow.com/a/3416289/259811i](http://stackoverflow.com/a/3416289/259811)
+ and [http://guides.rubygems.org/patterns/#semantic-versioning](http://guides.rubygems.org/patterns/#semantic-versioning)
 
-You can contribute to the project here: https://github.com/ianchesal/loweredexpectations
+You can contribute to the project here: [https://github.com/ianchesal/loweredexpectations](https://github.com/ianchesal/loweredexpectations)
 
-And for those born post-1995 wondering about the name: http://www.poprewind.com/90s-moments-you-forgot-lowered-expectations/
+And for those born post-1995 wondering about the name: [http://www.poprewind.com/90s-moments-you-forgot-lowered-expectations/](http://www.poprewind.com/90s-moments-you-forgot-lowered-expectations/)

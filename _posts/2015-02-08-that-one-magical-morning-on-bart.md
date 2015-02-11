@@ -3,7 +3,7 @@ layout: post
 title: That one magical morning on BART...
 ---
 
-I ride BART every day. I get on in the mornings at the second stop on the line. Inspite of being so close to the start of the line, it's always _very_ full. BART likes to brag that it "[runs more of its fleet than any other major transit agency despite having the oldest trains in the nation](http://sfbay.ca/2015/01/29/long-wait-expected-for-longer-bart-trains/)" but we all know that's marketeer-speak for "we're running at full capacity all the time with no room for growth or error". Right? Right.
+I ride BART every day. I get on in the mornings at the second stop on the line. In spite of being so close to the start of the line, it's always _very_ full. BART likes to brag that it "[runs more of its fleet than any other major transit agency despite having the oldest trains in the nation](http://sfbay.ca/2015/01/29/long-wait-expected-for-longer-bart-trains/)" but we all know that's marketeer-speak for "we're running at full capacity all the time with no room for growth or error". Right? Right.
 
 This is what a "light" morning looks like at my stop, [Union City Station](http://www.bart.gov/stations/ucty), when I get on around 8:10 am:
 
