@@ -4,7 +4,7 @@ title: About Ian Chesal
 permalink: /about/
 ---
 
-I am an engineering manager at [Square](https://squareup.com/careers) working to improve developer environments and continuous integration infrastructure.
+I am an engineering manager at [Square](https://squareup.com/careers). I build developer environments, CI systems, data centers and highways to the cloud.
 
 I like music. All kinds of music.
 
