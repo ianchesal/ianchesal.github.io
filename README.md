@@ -1,6 +1,6 @@
 # My Github Site
 
-My Github site.
+My Github site: [Mostly Wrong](http://mostlywrong.net/)
 
 ## Other forkable themes
 
