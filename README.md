@@ -2,6 +2,18 @@
 
 My Github site: [Mostly Wrong](http://mostlywrong.net/)
 
+## Instructions
+
+To get started:
+
+    rm Gemfile.lock
+    bundle install
+    bundle exec jekyll --watch
+
+New posts should be in the `_posts` sub-directory and end in `.md`.
+
+Publishing requires a pull request against the `master` branch to [the main repository](https://github.com/ianchesal/ianchesal.github.io).
+
 ## Other forkable themes
 
 You can use the [Quick Start](https://github.com/barryclark/jekyll-now#quick-start) workflow with other themes that are set up to be forked too! Here are some of my favorites:
