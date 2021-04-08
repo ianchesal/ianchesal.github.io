@@ -1,13 +1,6 @@
 .DS_Store
-.bundle
-.jekyll
 .jekyll-cache
 .jekyll-metadata
-.ruby-version
 .sass-cache
-Gemfile
-Gemfile.lock
 _site
-node_modules
-package.json
 vendor
