@@ -5,7 +5,7 @@ tags: audio clip grateful-dead
 category: audio
 ---
 
-Jerry always had nice space around his nice tone. A forumite asked for a hand craft a nice space around their really nice Jerry tone and I couldn't help by take a stab at it. Their clip came from an older AX8 and they were running the `Large Spring` algorithm with some tweaks to the EQ. It didn't really sound like spring reverb in their clip and the revamped spring reverbs in the FM3 were...too springy to realy match what they had in their AX8.
+Jerry always had nice space around his nice tone. [A forumite asked for a hand craft a nice space around their really nice Jerry tone](https://forum.fractalaudio.com/threads/ax8-spring-reverb-vs-fm3.174193/) and I couldn't help by take a stab at it. Their clip came from an older AX8 and they were running the `Large Spring` algorithm with some tweaks to the EQ. It didn't really sound like spring reverb in their clip and the revamped spring reverbs in the FM3 were...too springy to realy match what they had in their AX8.
 
 I turned through the reverb algorithms and settled on the `London Plate` as close enough to what they had to make a pretty space around a Jerry tone.
 
