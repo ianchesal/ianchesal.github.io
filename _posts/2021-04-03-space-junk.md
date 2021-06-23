@@ -2,7 +2,7 @@
 layout: post
 title: Space Junk
 tags: audio clip funk
-category: audio
+category: blog
 ---
 
 A funky octave preset with a Mu-Tron filter on it.

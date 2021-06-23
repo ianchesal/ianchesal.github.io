@@ -2,7 +2,7 @@
 layout: post
 title: Burgs' Twilight Stereo
 tags: audio clip ambient
-category: audio
+category: blog
 ---
 
 The inimitable and golden-ear'ed [burgs](https://forum.fractalaudio.com/members/burgs.31425/) on the Fractal forum made a post a while back about an amp from Magnatone that did this cool stereo phase thing. Hard to explain, go listen to his demo video of the amp to understand.

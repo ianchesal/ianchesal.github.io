@@ -1,6 +1,7 @@
 ---
 layout: post
 title: How I Practice Guitar
+category: blog
 ---
 
 Over time I've come to realize that how you tackle problems matters more than what you know before you start tackling a problem. Having a system for subdividing a problem and addressing its issues in smaller, manageable pieces can make issue discovery and resolution progress at a far faster rate.
