@@ -28,6 +28,6 @@ I could do hours of live takes of just ballads. Or just "bliss" jams. Or just a
 
 It's deep, man. Real deep.
 
-I'll cap this off by saying: don't sleep on the studio albums. Live is where it's at, but the studio albums provide the most accessible versions of the songs. The songs are composed and constrained. You get clean mixes so you can really hear the lyrics. Farmhouse and Billy Breathes are end-to-end perfect albums if you ask me. So start with those. Then try Picture of Nectar for some early Phish. And Feugo or Big Boat for some new era Phish. Round Room is Phish at their weirdest on a studio album.
+I'll cap this off by saying: don't sleep on the studio albums. Live is where it's at, but the studio albums provide the most accessible versions of the songs. The songs are composed and constrained. You get clean mixes so you can really hear the lyrics. [Farmhouse](https://en.wikipedia.org/wiki/Farmhouse_(album)) and [Billy Breathes](https://en.wikipedia.org/wiki/Billy_Breathes) are end-to-end perfect albums if you ask me. So start with those. Then try [A Picture of Nectar](https://en.wikipedia.org/wiki/A_Picture_of_Nectar) for some early Phish. And [Feugo](https://en.wikipedia.org/wiki/Fuego_(Phish_album)) or [Sigma Oasis](https://en.wikipedia.org/wiki/Sigma_Oasis) for some new era Phish. [Round Room](https://en.wikipedia.org/wiki/Round_Room) is Phish at their weirdest on a studio album.
 
 Enjoy.
