@@ -4,11 +4,18 @@ title: About Ian Chesal
 permalink: /about/
 ---
 
-I build developer environments, CI systems, data centers and highways to the cloud. I am currently an engineering manager at [Marqeta](https://marqeta.com/). But I've also managed engineers at [Stripe](https://stripe.com), [Square](https://squareup.com) and [Altera](https://altera.com).
+I build developer environments, CI systems, data centers and highways to the
+cloud. I am currently the Head of Infrastructure at
+[Persona](https://withpersona.com/). But I've also managed engineers at
+[Stripe](https://stripe.com), [Square](https://squareup.com),
+[Marqeta](https://marqeta.com/) and [Altera](https://altera.com).
 
-I like music. _All kinds of music._ And occassionally I get together with far more talented musicians than myself to make some of it in public.
+I like music. _All kinds of music._ And occasionally I get together with far
+more talented musicians than myself to make some of it in public. You can find
+my band at [crawlspacenh.com](https://crawlspacenh.com). 
 
-I beta test snazzy music-making gear for [Fractal Audio](http://www.fractalaudio.com/).
+I beta test snazzy music-making gear for [Fractal
+Audio](http://www.fractalaudio.com/).
 
 ## More Information
 
